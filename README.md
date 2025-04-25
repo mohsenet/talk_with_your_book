@@ -19,7 +19,7 @@ This repository contains a Python implementation of a Retrieval-Augmented Genera
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mohsenet/talk_with_your_book
+   git clone https://github.com/mohsenet/talk_with_your_book.git
    cd talk_with_your_book
    ```
 
