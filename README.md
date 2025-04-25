@@ -19,8 +19,8 @@ This repository contains a Python implementation of a Retrieval-Augmented Genera
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mohsenet/pdf-knowledge-base.git
-   cd pdf-knowledge-base
+   git clone https://github.com/mohsenet/talk_with_your_book
+   cd talk_with_your_book
    ```
 
 2. Install the required dependencies:
